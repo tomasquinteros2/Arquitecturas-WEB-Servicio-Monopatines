@@ -1,13 +1,5 @@
 ## Trabajo Practico Integrador 1 - Grupo 11
 
-<h3>Integrantes:</h1>
-<ul>
-  <li>Todesco Ana Olivia</li>
-  <li>Sosa Julieta</li>
-  <li>Quinteros Tomas</li>
-  <li>Gomez Tomas</li>
-</ul>
-
 ### Instalacion
 <p>Para ejecutar el proyecto, utiliza el siguiente comando en la carpeta raíz del proyecto:</p>
 <b>docker compose up --build</b> en la carpeta raiz
