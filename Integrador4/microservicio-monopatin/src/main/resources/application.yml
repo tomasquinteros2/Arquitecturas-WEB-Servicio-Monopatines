@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: default
+  application:
+    name: microservicio-monopatin
+  config:
+    import: optional:configserver:http://localhost:8081

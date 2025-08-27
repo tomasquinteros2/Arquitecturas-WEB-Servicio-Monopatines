@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/integrador2/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicio_user (2)" />
+        <module name="microservicio_admin" />
+        <module name="ejemploDAOyPatrones" />
+        <module name="config-service" />
+        <module name="microservicio-admin" />
+        <module name="microservicioparada" />
+        <module name="microservicio-mantenimiento" />
+        <module name="integrador3" />
+        <module name="integrador2" />
+        <module name="integrador1" />
+        <module name="microservicio-monopatin" />
+        <module name="eureka-service" />
+        <module name="config-server" />
+        <module name="microservicio_viaje" />
+        <module name="microservicio-viaje" />
+        <module name="microservicio-user" />
+        <module name="gateway" />
+        <module name="microservicio_user (1)" />
+      </profile>
+      <profile name="Annotation profile for microservicio_user (1)" enabled="true">
+        <sourceOutputDir name="../microservicio_user/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../microservicio_user/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicio_user (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicio_mantenimiento" target="17" />
+      <module name="microservicio_mantenimiento_admin" target="17" />
+      <module name="microservicio_monopatin" target="17" />
+      <module name="microservicio_user" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Integra4" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-service" options="-parameters" />
+      <module name="eureka-service" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="integrador3" options="-parameters" />
+      <module name="microservicio-admin" options="-parameters" />
+      <module name="microservicio-mantenimiento" options="-parameters" />
+      <module name="microservicio-monopatin" options="-parameters" />
+      <module name="microservicio-user" options="-parameters" />
+      <module name="microservicio-viaje" options="-parameters" />
+      <module name="microservicio_admin" options="-parameters" />
+      <module name="microservicio_user" options="-parameters" />
+      <module name="microservicio_user (1)" options="-parameters" />
+      <module name="microservicio_user (2)" options="-parameters" />
+      <module name="microservicioparada" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Integra4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/eureka-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-mantenimiento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-mantenimiento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-monopatin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-monopatin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio-viaje/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio_admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio_user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicio_user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicioparada/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/microservicioparada/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integrador4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrador1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrador1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integrador3/src/main/java" charset="UTF-8" />
+  </component>
+</project>
